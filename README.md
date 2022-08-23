@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chirzul
-- 👀 I’m interested in Android & Web Development
-- 🌱 I’m currently learning Node.js & Python
-- 💞️ I’m looking to collaborate on small web / android project to improve my skill
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Node.js & Golang
+- 💞️ I’m looking to collaborate on small web project to improve my skill
 - 📫 How to reach me => chirzul@pm.me
 
 <!---
